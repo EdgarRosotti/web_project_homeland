@@ -11,4 +11,4 @@ Projeto responsivo desenvolvido no bootcamp TripleTen.
 - BEM
 
 ## Link do projeto
-https://github.com/EdgarRosotti/web_project_homeland
+https://edgarrosotti.github.io/web_project_homeland/
